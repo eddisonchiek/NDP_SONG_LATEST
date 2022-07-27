@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnShow5Stars" type="id" />
+    <item name="spinnerYear" type="id" />
+    <item name="lv" type="id" />
+</resources>
